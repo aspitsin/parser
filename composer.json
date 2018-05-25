@@ -1,0 +1,6 @@
+{
+  "name": "success/parser",
+  "require": {
+    "electrolinux/phpquery": "^0.9.6"
+  }
+}
